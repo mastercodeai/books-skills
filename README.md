@@ -105,3 +105,26 @@ git clone https://github.com/mastercodeai/books-skills.git
 ## License
 
 MIT
+
+---
+
+## 更多AI实战工具
+
+这个项目是 **零一AI编程出海** 开源工具链的一部分。
+
+### 4个开源Skill，覆盖学习、决策、商业分析、知识管理
+
+| 项目 | 功能 | 安装 |
+|------|------|------|
+| [ai-learn-any-skill](https://github.com/mastercodeai/ai-learn-any-skill) | 5步AI学习闭环，SMART+SQ3R+费曼+KISS | `npx skills add mastercodeai/ai-learn-any-skill` |
+| [thinking-7-frameworks](https://github.com/mastercodeai/thinking-7-frameworks) | 7个顶级思维框架，马斯克/芒格/贝索斯同款 | `npx skills add mastercodeai/thinking-7-frameworks` |
+| [mckinsey-12-prompts](https://github.com/mastercodeai/mckinsey-12-prompts) | 12个商业咨询提示词，价值$115,500 | `npx skills add mastercodeai/mckinsey-12-prompts` |
+| [books-skills](https://github.com/mastercodeai/books-skills) | 66本书蒸馏的AI知识库，8大领域 | `hermes skills install mastercodeai/books-skills` |
+
+### 关注公众号「零一AI编程出海」
+
+回复「**工具包**」免费获取《AI Agent Skill 实战手册》PDF，包含4个项目的完整使用指南和实战案例。
+
+### License
+
+MIT
